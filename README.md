@@ -44,6 +44,7 @@ I am Software QA Engineer with experience in Frontend, Backend, Continuous Integ
 - Connect with me on [Twitter](https://twitter.com/Aarf4548)
 - Read more of my profile on [rodriguezfarias.com](https://rodriguezfarias.com/)
 
+
 Thanks for stopping by! 🚀
 
 
