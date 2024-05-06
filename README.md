@@ -66,11 +66,14 @@ I am Software QA Engineer with experience in Frontend, Backend, Continuous Integ
 
 
 ## 📬 Get in Touch
-
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/arodriguezfarias/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/arodriguezfarias/) 
 - Connect with me on [Twitter](https://twitter.com/Aarf4548)
-- Read more of my profile on [rodriguezfarias.com](https://rodriguezfarias.com/)
-
+- Read more of my profile on [rodriguezfarias.com](https://rodriguezfarias.com/) 
+<!--
+- ![Static Badge](https://img.shields.io/badge/Aarf4548-Twitter-black?link=https%3A%2F%2Ftwitter.com%2FAarf4548) 
+- ![Static Badge](https://img.shields.io/badge/Antonio%20Rodriguez-eMail-red?link=mailto%3Aantonio%40rodriguezfarias.com)  
+- ![Static Badge](https://img.shields.io/badge/arodriguezfarias-LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Farodriguezfarias%2F)
+- ![Static Badge](https://img.shields.io/badge/Antonio%20Rodriguez-Website-green?link=https%3A%2F%2Frodriguezfarias.com%2F) -->
 
 Thanks for stopping by! 🚀
 
