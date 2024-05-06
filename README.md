@@ -22,7 +22,34 @@ I am Software QA Engineer with experience in Frontend, Backend, Continuous Integ
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,selenium,firebase,gcp,azure,aws,kubernetes,postgres,linux,redhat,debian,ubuntu,bash,vim,jenkins,githubactions,github,git,docker,pycharm,vscode,postman,apple,androidstudio,windows,xd,stackoverflow,sklearn&perline=7)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=py,selenium,firebase,gcp,azure,aws,kubernetes,postgres,linux,redhat,debian,ubuntu,bash,vim,jenkins,githubactions,github,git,docker,pycharm,vscode,postman,apple,androidstudio,windows,xd,stackoverflow,sklearn&perline=14)](https://skillicons.dev) -->
+
+### Languages and Frameworks
+| Python | Selenium | Pytest | PyCharm |
+|----------|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg'> |
+
+### Browser Testing
+| Chrome | Safari | Mozilla | Edge | Opera | 
+|----------|----------|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/safari/safari-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ie10/ie10-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opera/opera-original-wordmark.svg'> |
+
+### Issues Tracking and Platforms
+| Kubernetes | Rancher | GKE | Jira | Azure DevOps | GitHub Actions | Jenkins |
+|----------|----------|----------|----------|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg'> |
+
+### Databases and Data Manipulation
+| Firestore | MongoDB | SQL Server | PostgreSQL | DBeaver | Anaconda | Jupyter | Kaggle |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg'> |  
+
+### Daily Tools
+| Postman | Swagger | Git | VirtualBox | Vagrant | Linux | Adobe | macOS & iOS | Docker | GitHub | 
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vagrant/vagrant-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg'> | 
+
+
 
 ## 🌱 Currently Exploring
 
