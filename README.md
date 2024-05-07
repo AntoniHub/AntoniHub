@@ -2,7 +2,7 @@
 
 I am Software QA Engineer with experience in Frontend, Backend, Continuous Integration, Databases (SQL and NoSQL), UX/UI, Mobile, Architecture, Linux / macOS / Windows testing.
 
-![AntoniHub Stats](https://github-readme-stats.vercel.app/api?username=AntoniHub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![AntoniHub Stats](https://github-readme-stats.vercel.app/api?username=AntoniHub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 ## 🚀 About Me
 
@@ -74,6 +74,7 @@ I am Software QA Engineer with experience in Frontend, Backend, Continuous Integ
 - ![Static Badge](https://img.shields.io/badge/Antonio%20Rodriguez-eMail-red?link=mailto%3Aantonio%40rodriguezfarias.com)  
 - ![Static Badge](https://img.shields.io/badge/arodriguezfarias-LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Farodriguezfarias%2F)
 - ![Static Badge](https://img.shields.io/badge/Antonio%20Rodriguez-Website-green?link=https%3A%2F%2Frodriguezfarias.com%2F) -->
+&nbsp;
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
@@ -81,6 +82,19 @@ I am Software QA Engineer with experience in Frontend, Backend, Continuous Integ
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+&nbsp;
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniHub&layout=compact) -->
+&nbsp;
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AntoniHub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntoniHub&layout=compact&langs_count=8&card_width=320&theme=vue-dark&hide_border=true" />
+</a>
+
+&nbsp;
+&nbsp;
 
 Thanks for stopping by! 🚀
 
