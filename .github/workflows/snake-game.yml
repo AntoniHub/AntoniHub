@@ -40,7 +40,7 @@ jobs:
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           # the output branch we mentioned above
-          target_branch: output
+          target_branch: salida
           build_dir: dist
         env:
           PAT: ${{ secrets.PAT }}
