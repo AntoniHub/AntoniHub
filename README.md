@@ -65,14 +65,31 @@ I'm Software QA Engineer with experience in Frontend, Backend, Continuous Integr
 
 
 ## 📬 Get in Touch
+<!--
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/arodriguezfarias/) 
 - Connect with me on [Twitter](https://twitter.com/Aarf4548)
-- Read more of my profile on [rodriguezfarias.com](https://rodriguezfarias.com/) 
+- Read more of my profile on [rodriguezfarias.com](https://rodriguezfarias.com/) -->
 <!--
 - ![Static Badge](https://img.shields.io/badge/Aarf4548-Twitter-black?link=https%3A%2F%2Ftwitter.com%2FAarf4548) 
 - ![Static Badge](https://img.shields.io/badge/Antonio%20Rodriguez-eMail-red?link=mailto%3Aantonio%40rodriguezfarias.com)  
 - ![Static Badge](https://img.shields.io/badge/arodriguezfarias-LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Farodriguezfarias%2F)
 - ![Static Badge](https://img.shields.io/badge/Antonio%20Rodriguez-Website-green?link=https%3A%2F%2Frodriguezfarias.com%2F) -->
+
+<p align="left">
+<a href="https://www.linkedin.com/in/arodriguezfarias/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
+<a href="mailto:antonio@rodriguezfarias.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
+<a href="https://t.me/AntoniHub">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> &nbsp;
+<a href="https://twitter.com/AntoniHub">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> &nbsp;
+<a href="https://rodriguezfarias.com/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a> &nbsp;
+<a href="https://www.kaggle.com/code/antoniorodriguez91/tfm-imf">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a> &nbsp;
+</p>
+
 &nbsp;
 &nbsp;
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniHub&layout=compact) -->
