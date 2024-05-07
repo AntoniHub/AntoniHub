@@ -28,6 +28,8 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - run: git status
+      # Carga las variables de entorno desde el archivo .env
+      - run: source .env
 
       # Para as atualizações.
       - name: Push changes
