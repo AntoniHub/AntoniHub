@@ -75,6 +75,13 @@ I am Software QA Engineer with experience in Frontend, Backend, Continuous Integ
 - ![Static Badge](https://img.shields.io/badge/arodriguezfarias-LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Farodriguezfarias%2F)
 - ![Static Badge](https://img.shields.io/badge/Antonio%20Rodriguez-Website-green?link=https%3A%2F%2Frodriguezfarias.com%2F) -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+
 Thanks for stopping by! 🚀
 
 
