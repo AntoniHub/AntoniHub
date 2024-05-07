@@ -18,7 +18,6 @@ jobs:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v4
-          source .env
 
     # Repositorio que será utilizado para gerar os arquivos.
       - uses: Platane/snk@master
