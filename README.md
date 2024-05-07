@@ -75,13 +75,6 @@ I am Software QA Engineer with experience in Frontend, Backend, Continuous Integ
 - ![Static Badge](https://img.shields.io/badge/arodriguezfarias-LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Farodriguezfarias%2F)
 - ![Static Badge](https://img.shields.io/badge/Antonio%20Rodriguez-Website-green?link=https%3A%2F%2Frodriguezfarias.com%2F) -->
 &nbsp;
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 &nbsp;
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniHub&layout=compact) -->
 &nbsp;
@@ -99,6 +92,8 @@ I am Software QA Engineer with experience in Frontend, Backend, Continuous Integ
 
 ![Snake animation](https://github.com/AntoniHub/AntoniHub/blob/output/github-contribution-grid-snake.svg)
 
+&nbsp;
+&nbsp;
 Thanks for stopping by! 🚀
 
 
