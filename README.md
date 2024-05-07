@@ -1,6 +1,6 @@
 # Hi, I'm Antonio Rodríguez Farias! 👋
 
-I am Software QA Engineer with experience in Frontend, Backend, Continuous Integration, Databases (SQL and NoSQL), UX/UI, Mobile, Architecture, Linux / macOS / Windows testing.
+I'm Software QA Engineer with experience in Frontend, Backend, Continuous Integration, Databases (SQL and NoSQL), UX/UI, Mobile, Architecture, Linux / macOS / Windows testing.
 
 ![AntoniHub Stats](https://github-readme-stats.vercel.app/api?username=AntoniHub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
@@ -48,7 +48,6 @@ I am Software QA Engineer with experience in Frontend, Backend, Continuous Integ
 | Postman | Swagger | Git | VirtualBox | Vagrant | Linux | Adobe | macOS & iOS | Docker | GitHub | 
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vagrant/vagrant-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg'> | 
-
 
 
 ## 🌱 Currently Exploring
