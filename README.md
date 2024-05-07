@@ -91,10 +91,8 @@ I'm Software QA Engineer with experience in Frontend, Backend, Continuous Integr
 </p>
 
 &nbsp;
-&nbsp;
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniHub&layout=compact) -->
-&nbsp;
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniHub&layout=compact) -->
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AntoniHub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
@@ -104,14 +102,15 @@ I'm Software QA Engineer with experience in Frontend, Backend, Continuous Integr
 </a>
 
 &nbsp;
-&nbsp;
 
 ![Snake animation](https://github.com/AntoniHub/AntoniHub/blob/output/github-contribution-grid-snake-dark.svg)
 
-&nbsp;
-&nbsp;
-Thanks for stopping by! 🚀
 
+&nbsp;
+&nbsp;
+<p align="center">
+Thanks for stopping by! 🚀
+</p>
 
 
 <!--
