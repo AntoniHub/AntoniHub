@@ -18,6 +18,7 @@ jobs:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v4
+          source .env
 
     # Repositorio que será utilizado para gerar os arquivos.
       - uses: Platane/snk@master
@@ -36,11 +37,12 @@ jobs:
           github_token: ${{ secrets.PAT }}
           branch: master
           force: true
-
+          
+      
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           # the output branch we mentioned above
-          target_branch: output
+          target_branch: $MY_OUTPUT
           build_dir: dist
         env:
-          PAT: ${{ secrets.PAT }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
