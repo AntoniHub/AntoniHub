@@ -97,6 +97,8 @@ I'm Software QA Engineer with experience in Frontend, Backend, Continuous Integr
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AntoniHub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 </a> -->
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=AntoniHub&theme=vue-dark&hide_border=true&card_width=900)](https://git.io/streak-stats) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AntoniHub&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 &nbsp;
