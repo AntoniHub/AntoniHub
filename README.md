@@ -101,8 +101,8 @@ I'm Software QA Engineer with experience in Frontend, Backend, Continuous Integr
 [![GitHub Streak](https://streak-stats.demolab.com?user=AntoniHub&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 &nbsp;
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntoniHub&layout=compact&langs_count=8&card_width=320&theme=vue-dark&hide_border=true" />
+&emsp;&emsp;&emsp;&ensp; <a href="https://github.com/anuraghazra/convoychat">
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntoniHub&layout=compact&langs_count=8&card_width=350&theme=vue-dark&hide_border=true" />
 </a>
 
 &nbsp;
