@@ -90,6 +90,8 @@ I'm Software QA Engineer with experience in Frontend, Backend, Continuous Integr
   <img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a> &nbsp;
 <a href="https://www.kaggle.com/code/antoniorodriguez91/tfm-imf">
   <img alt="Static Badge" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a> &nbsp;
+<a href="https://www.reddit.com/user/AntoniHub/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a> &nbsp;
 </p>
 
 &nbsp;
