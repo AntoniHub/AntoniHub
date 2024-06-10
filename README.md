@@ -112,9 +112,10 @@ I'm Software QA Engineer with experience in Frontend, Backend, Continuous Integr
 </a>
 
 &nbsp;
-
+<!--
 ![Snake animation](https://github.com/AntoniHub/AntoniHub/blob/output/github-contribution-grid-snake-dark.svg)
-
+-->
+![Snake animation](https://github.com/AntoniHub/AntoniHub/blob/output/github-contribution-grid-snake.svg)
 
 &nbsp;
 &nbsp;
