@@ -6,7 +6,7 @@ I'm Software QA Engineer with experience in Frontend, Backend, Continuous Integr
 ![AntoniHub's Stats](https://github-readme-stats.vercel.app/api?username=AntoniHub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
-## 🚀 About Me
+## 🚀 About Me:
 
 - 📊 Master Degree in Big Data - Catholic University of Avila
 - 🔒 Post Graduate Diploma in Defensive Cybersecurity
