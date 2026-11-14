@@ -1,6 +1,6 @@
 # Hi, I'm Antonio Rodríguez Farias! 👋
  
-I'm Software QA Engineer with experience in Frontend, Backend, Continuous Integration, Databases (SQL and NoSQL), UX/UI, Mobile, Architecture, Linux / macOS / Windows testing.
+I'm Software QA Engineer with experience in LLM Evaluation, Frontend, Backend, Continuous Integration, Databases (SQL and NoSQL), UX/UI, Mobile, Architecture, Linux / macOS / Windows testing.
 
 <!--![AntoniHub Stats](https://github-readme-stats.vercel.app/api?username=AntoniHub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)-->
 ![AntoniHub's Stats](https://github-readme-stats.vercel.app/api?username=AntoniHub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
