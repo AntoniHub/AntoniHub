@@ -1,6 +1,6 @@
 # Hi, I'm Antonio Rodríguez Farias! 👋
  
-I'm Software QA Engineer with experience in LLM Evaluation, Frontend, Backend, Continuous Integration, Databases (SQL and NoSQL), UX/UI, Mobile, Architecture, Linux / macOS / Windows testing.
+I'm a Software QA Automation Engineer specialised in LLM evaluation and test architecture: quality gates for AI agents (DeepEval, Promptfoo, Garak) and for traditional software (Playwright, Selenium, API, performance) in CI/CD.
 
 <!--![AntoniHub Stats](https://github-readme-stats.vercel.app/api?username=AntoniHub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)-->
 ![AntoniHub's Stats](https://github-readme-stats.vercel.app/api?username=AntoniHub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
@@ -11,6 +11,8 @@ I'm Software QA Engineer with experience in LLM Evaluation, Frontend, Backend, C
 - 📊 Master Degree in Big Data - Catholic University of Avila
 - 🔒 Post Graduate Diploma in Defensive Cybersecurity
 - 💡 Diploma in Machine Learning | AI applied to Business
+- 🤖 LLM & AI agent evaluation: golden datasets, prompt injection and red teaming, OWASP Top 10 for LLM Applications
+- 📌 LLM Testing with DeepEval, Promptfoo & Garak
 - 📌 Continuous Testing with GitHub Actions
 - 📌 API Testing with Postman & Python
 - 📌 Frontend Testing with Selenium WebDriver
@@ -22,14 +24,23 @@ I'm Software QA Engineer with experience in LLM Evaluation, Frontend, Backend, C
 ## My Articles
 - [Personal Portfolio with my Skills](https://rodriguezfarias.com/)
 
+## 🧪 Featured Project: [C0D3X](https://github.com/AntoniHub/C0D3X)
+
+- 🤖 **LLM Testing**: a LangChain/LangGraph support agent behind an OpenAI-compatible FastAPI API, with hardened and deliberately vulnerable variants, evaluated with 21 DeepEval golden cases, 14 Promptfoo checks and 770 Garak prompts, plus a detection gate and a daily GitHub Actions run.
+- ⚡ **Performance**: k6 and Locust smoke and latency checks against the agent endpoint, daily CI.
+- 🖥️ **UI automation**: Page Object reference frameworks (Selenium + Pytest, Playwright + Pytest) against a bundled demo app, cross-browser in CI.
+
 
 ## Tech Stack
 <!-- [![My Skills](https://skillicons.dev/icons?i=py,selenium,firebase,gcp,azure,aws,kubernetes,postgres,linux,redhat,debian,ubuntu,bash,vim,jenkins,githubactions,github,git,docker,pycharm,vscode,postman,apple,androidstudio,windows,xd,stackoverflow,sklearn&perline=14)](https://skillicons.dev) -->
 
 ### Languages and Frameworks
-| Python | Selenium | Pytest | PyCharm |
-|----------|----------|----------|----------|
-| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg'> |
+| Python | Selenium | Pytest | PyCharm | Playwright | TypeScript | k6 |
+|----------|----------|----------|----------|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg'> |
+
+### LLM Evaluation
+**DeepEval · Promptfoo · Garak · Galtea · LangChain · LangGraph**
 
 ### Browser Testing
 | Chrome | Safari | Mozilla | Edge | Opera | 
@@ -54,14 +65,14 @@ I'm Software QA Engineer with experience in LLM Evaluation, Frontend, Backend, C
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Quantum Physic & Quantum Computing
-  - Exploring the Quantum Mechanics (Postulates and Theorems).
-  - Navigating through Quantum Algorithms, Qubits and Quantum Circuits.
-  - Linear Algebra & Statistics.
-  - I hope to have knowledge about Quantum Engineering QA to be able to optimize a process and collaborate to improve some projects on that topic at any time.
+- 🚀 LLM & AI agent evaluation: custom DeepEval metrics, red teaming and quality gates in CI/CD
+- 🎓 Working toward ISTQB CT-GenAI
+- 🔬 Quantum Computing and Quantum Engineering QA
 
  ## 🏆 Achievements
 
+- 🛡️ Built an LLM evaluation and red-teaming pipeline (21 golden cases, 14 Promptfoo checks, 770 Garak prompts) gated in CI/CD.
+- 🚦 Real-world LLM evaluation: started with an in-house approach (DeepEval, Promptfoo, Garak), then moved to Galtea integrated in Jenkins to publish results and enable the quality gate.
 - 🌟 I have mastered the Pola-rs library for Exploratory Data Analysis on the [Kaggle](https://www.kaggle.com/code/antoniorodriguez91/exploratory-data-analysis-vader-sid) Platform.
 - 📢 I was able to successfully process 29 million data points for analysis with Pandas.
 
