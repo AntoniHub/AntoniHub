@@ -10,7 +10,6 @@ I'm a Software QA Automation Engineer specialised in LLM evaluation and test arc
 
 - 📊 Master Degree in Big Data - Catholic University of Avila
 - 🔒 Post Graduate Diploma in Defensive Cybersecurity
-- 💡 Diploma in Machine Learning | AI applied to Business
 - 🤖 LLM & AI agent evaluation: golden datasets, prompt injection and red teaming, OWASP Top 10 for LLM Applications
 - 📌 LLM Testing with DeepEval, Promptfoo & Garak
 - 📌 Continuous Testing with GitHub Actions
@@ -66,7 +65,6 @@ I'm a Software QA Automation Engineer specialised in LLM evaluation and test arc
 ## 🌱 Currently Exploring
 
 - 🚀 LLM & AI agent evaluation: custom DeepEval metrics, red teaming and quality gates in CI/CD
-- 🎓 Working toward ISTQB CT-GenAI
 - 🔬 Quantum Computing and Quantum Engineering QA
 
  ## 🏆 Achievements
